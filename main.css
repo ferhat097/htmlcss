@@ -1,0 +1,49 @@
+#basliq{
+ color: blue;user-select: all;
+}
+
+#basliq::first-letter{
+    font-size: 55px;
+    background-color: seagreen;
+    
+}
+
+#basliq:hover{
+    background-color: teal;
+    cursor: pointer;
+}
+
+.linkbutton{
+    color: red;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.linkbutton:hover{
+    display: none;
+}
+
+::selection{
+    background-color: seagreen;
+}
+
+#nameinput::placeholder{
+    color: springgreen;
+}
+
+/* #sex:checked + span{
+    color:turquoise;
+} */
+
+#sex:checked + #sexname{
+    color:thistle;
+}
+
+#tamamlabutton:focus{
+    background-color: darkseagreen;
+    border-radius: 2px;
+}
+
+div span:focus{
+background-color: deeppink;
+}
