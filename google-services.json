@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "349646881181",
+    "project_id": "foodmood-af335",
+    "storage_bucket": "foodmood-af335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349646881181:android:7465e7ad87a5247438ef74",
+        "android_client_info": {
+          "package_name": "com.palecompany.foodmoodandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv7_MUU1HqDODV3W5rXi1XoVbzqQZnv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349646881181-2jta0dgc1qin8u81qbsqf22b9e7sa83a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palecompany.foodmoodazerbaijan",
+                "app_store_id": "1581167388"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349646881181:android:7f78101711388a4038ef74",
+        "android_client_info": {
+          "package_name": "com.palecompany.foodmoodmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv7_MUU1HqDODV3W5rXi1XoVbzqQZnv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349646881181-2jta0dgc1qin8u81qbsqf22b9e7sa83a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palecompany.foodmoodazerbaijan",
+                "app_store_id": "1581167388"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349646881181:android:4010d8f74abd278838ef74",
+        "android_client_info": {
+          "package_name": "com.palecompany.foodmoodmanagerandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv7_MUU1HqDODV3W5rXi1XoVbzqQZnv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349646881181-jtb4juol3af8h0usprgocon15gjh95tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349646881181-2jta0dgc1qin8u81qbsqf22b9e7sa83a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palecompany.foodmoodazerbaijan",
+                "app_store_id": "1581167388"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
